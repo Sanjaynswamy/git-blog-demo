@@ -1,0 +1,9 @@
+{
+	"name": "san10fact",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aa3d3ff9-2a20-46b4-b287-9ced8c11f5ae",
+		"tenantId": "627a47db-7977-47d8-a1f5-c564bed5482f"
+	}
+}
